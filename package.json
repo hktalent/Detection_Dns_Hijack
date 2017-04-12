@@ -1,0 +1,24 @@
+{
+  "name": "Detection_Dns_Hijack",
+  "version": "1.0.0",
+  "description": "Detection find Dns Hijack NodeJS",
+  "main": "proxy.js",
+  "bin": {
+    "detection_Dns_Hijack": "test/test.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "node test/test.js",
+    "no-pre-commit": "exit 0"
+  },
+  "pre-commit": "no-pre-commit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hktalent/Detection_Dns_Hijack"
+  },
+  "author": "11602011@qq.com",
+  "license": "ISC"
+}
