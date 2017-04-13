@@ -2,7 +2,17 @@
 Detection(find) dns hijack node js
 
 ## install
-npm install -g Detection_Dns_Hijack
+<code>npm install -g Detection_Dns_Hijack</code>
 
 ## run
-node  index.js
+<code>node test/test.js </code>
+
+## dev
+<code><pre>
+var t = require("Detection_Dns_Hijack");
+t(function(a)
+{
+	console.log("find dns Hijack:");
+	console.log(a);
+});</pre>
+</code>
