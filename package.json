@@ -17,7 +17,7 @@
   "pre-commit": "no-pre-commit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hktalent/Detection_Dns_Hijack"
+    "url": "https://github.com/hktalent/Detection_Dns_Hijack.git"
   },
   "author": "11602011@qq.com",
   "license": "ISC"
